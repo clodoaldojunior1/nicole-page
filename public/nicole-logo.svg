@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="220" viewBox="0 0 760 220" role="img"
+  aria-label="Nicole Ramos — Lash Design">
+  <title>Nicole Ramos — Lash Design</title>
+
+  <!-- Background is transparent; color is controlled by CSS via currentColor -->
+  <rect width="100%" height="100%" fill="none" />
+
+  <!-- Brand group -->
+  <g fill="currentColor">
+    <!-- Top line -->
+    <text
+      x="380"
+      y="105"
+      text-anchor="middle"
+      font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+      font-size="72"
+      font-weight="800"
+      letter-spacing="6"
+    >
+      NICOLE RAMOS
+    </text>
+
+    <!-- Thin divider line (like the reference style) -->
+    <rect x="240" y="128" width="280" height="3" rx="1.5" opacity="0.9" />
+
+    <!-- Bottom tagline -->
+    <text
+      x="380"
+      y="170"
+      text-anchor="middle"
+      font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+      font-size="22"
+      font-weight="500"
+      letter-spacing="8"
+      opacity="0.9"
+    >
+      LASH DESIGN
+    </text>
+  </g>
+</svg>
