@@ -1,7 +1,7 @@
 import React from 'react';
 import { Box, Typography, Button, Stack } from '@mui/material';
-import { SectionWrapper } from '@/componentes/UI/SectionWrapper';
-import { HoverCard } from '@/componentes/UI/HoverCard';
+import { SectionWrapper } from '@/shared/components/SectionWrapper';
+import { HoverCard } from '@/shared/components/HoverCard';
 import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 import LocationOnIcon from '@mui/icons-material/LocationOn';
 import InstagramIcon from '@mui/icons-material/Instagram';

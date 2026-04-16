@@ -1,6 +1,6 @@
 import React from 'react';
 import { Box, Typography } from '@mui/material';
-import { SectionWrapper } from '@/componentes/UI/SectionWrapper';
+import { SectionWrapper } from '@/shared/components/SectionWrapper';
 import Image from 'next/image';
 
 // Placeholder array for the gallery

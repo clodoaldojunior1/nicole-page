@@ -1,7 +1,7 @@
 import React from 'react';
 import { Box, Typography, Grid } from '@mui/material';
-import { SectionWrapper } from '@/componentes/UI/SectionWrapper';
-import { HoverCard } from '@/componentes/UI/HoverCard';
+import { SectionWrapper } from '@/shared/components/SectionWrapper';
+import { HoverCard } from '@/shared/components/HoverCard';
 import BrushIcon from '@mui/icons-material/Brush';
 import SpaIcon from '@mui/icons-material/Spa';
 import AutoAwesomeIcon from '@mui/icons-material/AutoAwesome';

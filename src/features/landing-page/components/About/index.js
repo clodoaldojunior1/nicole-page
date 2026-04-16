@@ -1,6 +1,6 @@
 import React from 'react';
 import { Box, Typography, Grid, Paper } from '@mui/material';
-import { SectionWrapper } from '@/componentes/UI/SectionWrapper';
+import { SectionWrapper } from '@/shared/components/SectionWrapper';
 import Image from 'next/image';
 import Profile from "@/../public/profile-nicole.jpeg"
 // Importe sua imagem aqui. Exemplo:
