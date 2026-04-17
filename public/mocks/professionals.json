@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Nicole Cilios",
+    "specialty": "Master Lash Artist",
+    "experience": "5 anos",
+    "rating": 5.0,
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Ana Silva",
+    "specialty": "Designer de Sobrancelhas",
+    "experience": "3 anos",
+    "rating": 4.8,
+    "available": true
+  },
+  {
+    "id": 3,
+    "name": "Juliana Costa",
+    "specialty": "Micropigmentadora",
+    "experience": "7 anos",
+    "rating": 4.9,
+    "available": false
+  }
+]

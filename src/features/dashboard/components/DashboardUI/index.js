@@ -1,7 +1,5 @@
-
 import { Box, Typography } from "@mui/material";
-import { MaterialReactTable } from "material-react-table";
-import React from "react";
+import axios from "axios";
 
 export const DashboardUI = () => {
   return (

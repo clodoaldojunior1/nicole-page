@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Volume Russo",
+    "description": "Extensão de cílios com técnica de volume para um olhar marcante.",
+    "price": 150.00,
+    "duration": "120 min",
+    "category": "Cílios",
+    "image": "https://images.unsplash.com/photo-1583001809272-19ef69efd4a4?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": 2,
+    "name": "Fio a Fio Clássico",
+    "description": "Extensão delicada e natural, um fio sintético para cada fio natural.",
+    "price": 120.00,
+    "duration": "90 min",
+    "category": "Cílios",
+    "image": "https://images.unsplash.com/photo-1589710751893-f9a6770ad71b?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": 3,
+    "name": "Design de Sobrancelhas",
+    "description": "Mapeamento facial e design personalizado para o seu rosto.",
+    "price": 50.00,
+    "duration": "45 min",
+    "category": "Sobrancelhas",
+    "image": "https://images.unsplash.com/photo-1522337094846-8a818192de1f?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": 4,
+    "name": "Lash Lifting",
+    "description": "Curvatura e hidratação dos cílios naturais, sem extensões.",
+    "price": 100.00,
+    "duration": "60 min",
+    "category": "Cílios",
+    "image": "https://images.unsplash.com/photo-1512496015851-a1fbca67232e?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": 5,
+    "name": "Micropigmentação Labial",
+    "description": "Revitalização da cor e definição do contorno dos lábios.",
+    "price": 350.00,
+    "duration": "180 min",
+    "category": "Lábios",
+    "image": "https://images.unsplash.com/photo-1512496015851-a1fbca67232e?auto=format&fit=crop&q=80&w=400"
+  }
+]
